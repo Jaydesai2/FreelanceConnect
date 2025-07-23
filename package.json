@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cloudinary": "^2.7.0",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^2.0.2",
+    "node-fetch": "^3.3.2",
+    "react-apple-login": "^1.1.6",
+    "react-facebook-login": "^4.1.1",
+    "react-select": "^5.10.2"
+  }
+}
